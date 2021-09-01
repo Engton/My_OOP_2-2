@@ -6,7 +6,7 @@ namespace Lab_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Second commit");
+            Console.WriteLine("Develop branch");
         }
     }
 }
